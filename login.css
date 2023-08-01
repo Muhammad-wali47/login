@@ -56,37 +56,3 @@ button:hover {
   color: orange;
   background-color: grey;
 }
-@media only screen and (max-width: 1325px) {
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  .main-login {
-    width: 50%;
-    height: 100%;
-    margin-left: 330px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-}
-@media only screen and (max-width: 500px) {
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  .main-login {
-    width: 50%;
-    height: 100%;
-    margin-left: 117px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-}
